@@ -1,2 +1,2 @@
 # Dicee
-# Dicee playing game
+# Dicee game witch you can try to win your frinds. 
